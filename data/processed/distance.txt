@@ -1,0 +1,19 @@
+QGIS version: 3.44.5-Solothurn
+QGIS code revision: 5c593399236
+Qt version: 5.15.13
+Python version: 3.12.12
+GDAL version: 3.12.0
+GEOS version: 3.13.1-CAPI-1.19.2
+PROJ version: Rel. 9.7.0, September 1st, 2025
+PDAL version: 2.9.0 (git-version: 42b180)
+Algorithm started at: 2025-12-10T21:46:28
+Algorithm 'Distance matrix' starting…
+Input parameters:
+{ 'INPUT' : 'Cardiff Fastfoof.geojson', 'INPUT_FIELD' : 'id', 'MATRIX_TYPE' : 0, 'NEAREST_POINTS' : 0, 'OUTPUT' : 'TEMPORARY_OUTPUT', 'TARGET' : 'Cardiff_Supermarket.geojson', 'TARGET_FIELD' : 'id' }
+
+Execution completed in 3.96 seconds
+Results:
+  OUTPUT: Distance_matrix_b020894f_7b93_4a16_8c87_bcd27a9432c7
+
+Loading resulting layers
+Algorithm 'Distance matrix' finished
